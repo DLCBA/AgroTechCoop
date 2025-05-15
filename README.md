@@ -5,31 +5,33 @@
 Sistema de Monitoreo para Cooperativa AgroTech Coop
 
 ## 🧾 Descripción
-Este proyecto consiste en el desarrollo de un prototipo de aplicación de consola en Python que permite gestionar parcelas agrícolas, sensores IoT y registrar las mediciones recolectadas. Forma parte del Proyecto ABP del Módulo Programador del TSNTAA 2025.  
-La aplicación se centra en brindar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos.
+Este proyecto consiste en el desarrollo de un prototipo de aplicación de consola en Python que permite gestionar parcelas agrícolas, sensores IoT y registrar las mediciones recolectadas. Forma parte del Proyecto ABP del Módulo Programador de la Tecnicatura Superior de Nuevas Tecnologías Aplicadas al Agro, cohorte 2025.  
+La aplicación esta centrada en presentar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos.
 
 ## 👥 Integrantes del grupo
-- Walter González - DNI 30.123.456  
-- Lucía Pérez - DNI 28.654.321  
-- Tomás Herrera - DNI 32.987.654  
-*(Reemplazar por los nombres reales del grupo)*
+- Joaquin Ataide
+- Maximiliano Altamirano 
+- Nadia Nieto
+- Valentino Rossani
+- Liliana Lamas  
+- Walter Nieto
 
 ## 🛠️ Tecnologías utilizadas
 - Python 3 (modo consola)
 - Paradigma Imperativo (estructuras secuenciales, condicionales e iterativas)
-- ASCII Art para embellecer interfaz
+- ASCII Art para embellecer interfaz (https://www.asciiart.eu/text-to-ascii-art)
 - Sin uso de librerías externas
 
 ## ▶️ Instrucciones de ejecución
-1. Clonar el repositorio o descargar el archivo `.zip` del proyecto.
-2. Abrir una terminal y navegar a la carpeta del proyecto.
+1. Descargar el archivo `main.py` del proyecto.
+2. Abrir el archivo con un interprete de python (Spyder; VS Code; Colaboratory; etc )
 3. Ejecutar el archivo principal:
 
 ```bash
 python main.py
 ```
 
-4. Seguir las instrucciones del menú interactivo para simular la gestión del sistema.
+4. Siga las instrucciones del menú interactivo el cual simula la gestión del sistema.
 
 ## 📋 Estructura del Proyecto
 
@@ -43,5 +45,7 @@ python main.py
 Evidencia 2 - Entrega: 16/05/2025
 
 ## 🔖 Estado del proyecto
-✅ Boceto preliminar completo  
-🕗 A la espera de la consigna de la Evidencia 3 para avanzar con modularización, funciones y conexión a base de datos relacional.
+✅ Boceto preliminar completo
+✅ Diagrama Relacional completo
+✅ Informe Reflexivo completo
+🕗 A la espera de la consigna de la Evidencia 3.
