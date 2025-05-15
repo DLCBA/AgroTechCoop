@@ -45,6 +45,9 @@ Evidencia 2 - Entrega: 16/05/2025
 
 ## 🔖 Estado del proyecto
 ✅ Boceto preliminar completo
+
 ✅ Diagrama Relacional completo
+
 ✅ Informe Reflexivo completo
+
 🕗 A la espera de la consigna de la Evidencia 3.
