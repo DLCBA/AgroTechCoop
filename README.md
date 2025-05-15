@@ -50,4 +50,4 @@ Evidencia 2 - Entrega: 16/05/2025
 
 ✅ Informe Reflexivo completo
 
-🕗 A la espera de la consigna de la Evidencia 3.
+🕗 A la espera de consigna de la Evidencia 3.
