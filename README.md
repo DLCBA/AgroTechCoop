@@ -1,8 +1,7 @@
 
-# 🌱 AgroTech Coop - Sistema de Monitoreo Agrícola
+# 🌱 AgroTech Coop
 
-## 📌 Nombre del Proyecto
-Sistema de Monitoreo para Cooperativa AgroTech Coop
+## 📌 Nombre del Proyecto - Sistema de Monitoreo para Cooperativa AgroTech Coop
 
 ## 🧾 Descripción
 Este proyecto consiste en el desarrollo de un prototipo de aplicación de consola en Python que permite gestionar parcelas agrícolas, sensores IoT y registrar las mediciones recolectadas. Forma parte del Proyecto ABP del Módulo Programador de la Tecnicatura Superior de Nuevas Tecnologías Aplicadas al Agro, cohorte 2025.  
