@@ -8,7 +8,7 @@ Este proyecto consiste en el desarrollo de un prototipo de aplicación de consol
 La aplicación esta centrada en presentar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos.
 
 ## 👥 Integrantes del grupo
-- Joaquin Ataide
+- Joaquin Ataide - Github: JoacoAta
 - Maximiliano Altamirano 
 - Nadia Nieto
 - Valentino Rossani - Github: ValentinoRossani
