@@ -9,7 +9,7 @@ La aplicación esta centrada en presentar una solución funcional, simple y esca
 
 ## 👥 Integrantes del grupo
 - Joaquin Ataide - Github: JoacoAta
-- Maximiliano Altamirano 
+- Maximiliano Altamirano -  Github: agrodeveloper2
 - Nadia Nieto
 - Valentino Rossani - Github: ValentinoRossani
 - Liliana Lamas  
