@@ -13,7 +13,7 @@ La aplicación esta centrada en presentar una solución funcional, simple y esca
 - Nadia Nieto
 - Valentino Rossani
 - Liliana Lamas  
-- Walter Nieto
+- Walter Nieto - Github: DLCBA
 
 ## 🛠️ Tecnologías utilizadas
 - Python 3 (modo consola)
