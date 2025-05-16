@@ -12,7 +12,7 @@ La aplicación esta centrada en presentar una solución funcional, simple y esca
 - Maximiliano Altamirano -  Github: agrodeveloper2
 - Nadia Nieto
 - Valentino Rossani - Github: ValentinoRossani
-- Liliana Lamas  
+- Liliana Elizabet Lamas - Github: llamas22 
 - Walter Nieto - Github: DLCBA
 
 ## 🛠️ Tecnologías utilizadas
