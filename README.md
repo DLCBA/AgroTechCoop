@@ -11,7 +11,7 @@ La aplicación esta centrada en presentar una solución funcional, simple y esca
 - Joaquin Ataide
 - Maximiliano Altamirano 
 - Nadia Nieto
-- Valentino Rossani
+- Valentino Rossani - Github: ValentinoRossani
 - Liliana Lamas  
 - Walter Nieto - Github: DLCBA
 
