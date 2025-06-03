@@ -4,13 +4,12 @@
 ## 📌 Nombre del Proyecto - Sistema de Monitoreo para Cooperativa AgroTech Coop
 
 ## 🧾 Descripción
-Este proyecto consiste en el desarrollo de un prototipo de aplicación de consola en Python que permite gestionar parcelas agrícolas, sensores IoT y registrar las mediciones recolectadas. Forma parte del Proyecto ABP del Módulo Programador de la Tecnicatura Superior de Nuevas Tecnologías Aplicadas al Agro, cohorte 2025.  
-La aplicación esta centrada en presentar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos.
+Este proyecto continua con el desarollo del prototipo de aplicacion de la evidencia de apredizaje Nº2. Forma parte del Proyecto ABP del Módulo Programador de la Tecnicatura Superior de Nuevas Tecnologías Aplicadas al Agro, cohorte 2025.  
+La aplicación esta centrada en presentar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos. En esta version en particular se agregaron funciones al submenu "Gestionar Parcelas"
 
 ## 👥 Integrantes del grupo
 - Joaquin Ataide - Github: JoacoAta
 - Maximiliano Altamirano -  Github: agrodeveloper2
-- Nadia Nieto
 - Valentino Rossani - Github: ValentinoRossani
 - Liliana Elizabet Lamas - Github: llamas22 
 - Walter Nieto - Github: DLCBA
@@ -19,7 +18,8 @@ La aplicación esta centrada en presentar una solución funcional, simple y esca
 - Python 3 (modo consola)
 - Paradigma Imperativo (estructuras secuenciales, condicionales e iterativas)
 - ASCII Art para embellecer interfaz (https://www.asciiart.eu/text-to-ascii-art)
-- Sin uso de librerías externas
+- Uso de funciones en modulos independientes (Modularizacion)
+- Uso de diccionarios para la gestion y almacenamiento de datos
 
 ## ▶️ Instrucciones de ejecución
 1. Descargar el archivo `main.py` del proyecto.
@@ -30,7 +30,8 @@ La aplicación esta centrada en presentar una solución funcional, simple y esca
 python main.py
 ```
 
-4. Siga las instrucciones del menú interactivo el cual simula la gestión del sistema.
+4. Seleccione alguna de las instrucciones del menú principal.
+5. Dependiendo del submenu elejido se habilitaran o no nuevas funciones.
 
 ## 📋 Estructura del Proyecto
 
@@ -46,13 +47,11 @@ python main.py
 ```
 
 ## 📅 Fecha de entrega
-Evidencia 2 - Entrega: 16/05/2025
+Evidencia 3 - Entrega: 03/06/2025
 
 ## 🔖 Estado del proyecto
-✅ Boceto preliminar completo
+✅ Repositorio GitHub actualizado y código modularizado segun los requisitos.
 
-✅ Diagrama Relacional completo
+✅ Archivo con todas las sentencias DDL y DML solicitadas, debidamente comentadas.
 
-✅ Informe Reflexivo completo
-
-🕗 A la espera de consigna de la Evidencia 3.
+✅ Informe solicitado con sección final de conclusiones personales vinculadas al caso AgroTech Coop.
