@@ -5,7 +5,7 @@
 
 ## 🧾 Descripción
 Este proyecto continua con el desarollo del prototipo de aplicacion de la evidencia de apredizaje Nº2. Forma parte del Proyecto ABP del Módulo Programador de la Tecnicatura Superior de Nuevas Tecnologías Aplicadas al Agro, cohorte 2025.  
-La aplicación esta centrada en presentar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos. En esta version en particular se agregaron funciones al submenu "Gestionar Parcelas"
+La aplicación esta centrada en presentar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos. En esta version en particular se agregaron funciones al submenu "Gestionar Parcelas" y se modularizaron los submenus restantes.
 
 ## 👥 Integrantes del grupo
 - Joaquin Ataide - Github: JoacoAta
