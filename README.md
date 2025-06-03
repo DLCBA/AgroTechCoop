@@ -37,6 +37,11 @@ python main.py
 ```
 /agrotech_coop
 ├── main.py
+├── gestion_parcelas.py
+├── gestion_sensores.py
+├── registro_mediciones.py
+├── consulta_datos.py
+├── alerta_sistema.py
 └── README.md
 ```
 
