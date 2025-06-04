@@ -4,8 +4,8 @@
 ## 📌 Nombre del Proyecto - Sistema de Monitoreo para Cooperativa AgroTech Coop
 
 ## 🧾 Descripción
-Este proyecto continua con el desarollo del prototipo de aplicacion de la evidencia de apredizaje Nº2. Forma parte del Proyecto ABP del Módulo Programador de la Tecnicatura Superior de Nuevas Tecnologías Aplicadas al Agro, cohorte 2025.  
-La aplicación esta centrada en presentar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos. En esta version en particular se agregaron funciones al submenu "Gestionar Parcelas" y se modularizaron los submenus restantes.
+Este proyecto continúa con el desarollo del prototipo de aplicación de la evidencia de apredizaje Nº2. Forma parte del Proyecto ABP del Módulo Programador de la Tecnicatura Superior de Nuevas Tecnologías Aplicadas al Agro, cohorte 2025.  
+La aplicación esta centrada en presentar una solución funcional, simple y escalable para ayudar a técnicos agrícolas a tomar decisiones basadas en datos. En esta versión en particular se agregaron funciones al submenu "Gestionar Parcelas" y se modularizaron los submenus restantes.
 
 ## 👥 Integrantes del grupo
 - Joaquin Ataide - Github: JoacoAta
@@ -19,7 +19,7 @@ La aplicación esta centrada en presentar una solución funcional, simple y esca
 - Paradigma Imperativo (estructuras secuenciales, condicionales e iterativas)
 - ASCII Art para embellecer interfaz (https://www.asciiart.eu/text-to-ascii-art)
 - Uso de funciones en modulos independientes (Modularizacion)
-- Uso de diccionarios para la gestion y almacenamiento de datos
+- Uso de diccionarios para la gestión y almacenamiento de datos
 
 ## ▶️ Instrucciones de ejecución
 1. Descargar el archivo `main.py` del proyecto.
