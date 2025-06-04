@@ -31,7 +31,7 @@ python main.py
 ```
 
 4. Seleccione alguna de las instrucciones del menú principal.
-5. Dependiendo del submenu elejido se habilitaran o no nuevas funciones.
+5. Dependiendo del submenu elegido se habilitaran o no nuevas funciones.
 
 ## 📋 Estructura del Proyecto
 
